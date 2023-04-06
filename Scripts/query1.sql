@@ -1,4 +1,3 @@
---Employees and their managers
 SELECT
 e1.employeeId,
 e1.firstName,
